@@ -1,2 +1,2 @@
-# KanjianTsin.github.io
+# KangjianTsin.github.io
 This will generate a web site
